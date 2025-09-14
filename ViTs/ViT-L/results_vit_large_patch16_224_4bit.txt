@@ -1,0 +1,12 @@
+Q-ViT Evaluation Results
+========================
+Model: vit_large_patch16_224
+Quantization Bits: 4
+IRM Enabled: True
+DGD Enabled: True
+Top-1 Accuracy: 62.80%
+Top-5 Accuracy: 85.34%
+Model Size: 144.67 MB
+Parameters: 303.40 M
+FLOPs: 0.00 GFLOPs
+Avg Inference Time: 25.28 ms
